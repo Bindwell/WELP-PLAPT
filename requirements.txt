@@ -2,3 +2,4 @@ torch
 transformers
 onnxruntime
 numpy
+flask
